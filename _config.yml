@@ -17,7 +17,7 @@ title: derpycomputer
 description: >- # this means to ignore newlines until "baseurl:"
   Turn that huge fail into an okay save, at least.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.derpycomputer.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: derpycomputer
 github_username:  derpycomputer
 rss: rss
