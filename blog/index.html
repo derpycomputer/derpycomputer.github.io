@@ -1,15 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
+layout: default
+title: Blog
+permalink: /blog/
 ---
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h3 class="page-heading">{{ page.title }}</h>
   {%- endif -%}
 
-<h3>Blog</h3>
 {%- if site.posts.size > 0 -%}
  
  <!-- post list -->
