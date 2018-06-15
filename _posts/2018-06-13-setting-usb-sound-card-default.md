@@ -5,7 +5,6 @@ date: 2018-06-13 15:30
 categories: blog
 author: "derpycomputer"
 description: "A method of switching a generic USB sound card to default without the need to disable the integrated audio on Linux Mint."
-comments: true
 ---
 
 So, I'm still tweaking and tinkering with the Toshiba Satellite laptop that I mentioned in my previous post, and, something I knew before I commited to purchasing it was that the speakers work just fine, but the audio jack in this little monster is broken. I got it like that, because I didn't think I'd need it until I did, because my okay-sounding off-brand Bluetooth headphones are kinda old, and kind of not holding a single charge anymore. 
