@@ -22,6 +22,8 @@ twitter_username: derpycomputer
 github_username:  derpycomputer
 rss: rss
 google_analytics: UA-120595109-1
+disqus:
+  shortname: derpycomputer
 
 # Build settings
 markdown: kramdown
